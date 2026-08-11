@@ -1,0 +1,6 @@
+{
+  "name": "Pan Sin Gluten - Landing Page",
+  "description": "Landing page de alta conversión para el libro digital de Pan Sin Gluten de la Dra. Teresa González",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
